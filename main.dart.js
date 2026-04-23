@@ -97086,7 +97086,7 @@ j.toString
 s=8
 return A.n(n.ay.Cn(m,j),$async$vY)
 case 8:l=d
-k="https://sharedlists.github.io//invite?token="+A.i(l)
+k="https://sharedlists.github.io/invite?token="+A.i(l)
 j=n.c.e7(B.bF,new A.Ua(k))
 if(!b.d)b.a.$1(j)
 p=2
