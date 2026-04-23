@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "TEAM_ID.io.github.tadius.sharedlists",
+        "paths": ["/invite*"]
+      }
+    ]
+  }
+}

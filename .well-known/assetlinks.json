@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.tadius.sharedlists",
+      "sha256_cert_fingerprints": ["D5:D0:EE:BF:71:CB:93:9F:6D:FE:03:CD:C9:F5:6F:22:5F:EF:E9:6F:07:D7:F0:48:22:59:A3:AD:82:90:EE:81"]
+    }
+  }
+]
